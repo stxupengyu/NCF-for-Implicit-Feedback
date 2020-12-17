@@ -1,5 +1,5 @@
 # NCF-for-Implicit-Feedback  
-Neural collaborative filtering (NCF) method is used to verify the experimental results on Microsoft MIND news dataset.  
+Neural collaborative filtering (NCF) method is used for Microsoft MIND news recommendation dataset.  
 Our approach:  
 - construct a rating dataset from the original raw MIND dataset. Each row of the rating dataset: [User ID, Item ID, Rating Score] .
 - negative sampling.
